@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.mypy_cache/
+Практическая работа №8_Контрольная работа №2.pdf
