@@ -1,3 +1,5 @@
+# KR2: Сивова
+
 import os
 import socket
 
